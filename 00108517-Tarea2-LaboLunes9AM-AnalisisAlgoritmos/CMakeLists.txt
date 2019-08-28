@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(00108517_Tarea2_LaboLunes9AM_AnalisisAlgoritmos)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(00108517_Tarea2_LaboLunes9AM_AnalisisAlgoritmos main.cpp)

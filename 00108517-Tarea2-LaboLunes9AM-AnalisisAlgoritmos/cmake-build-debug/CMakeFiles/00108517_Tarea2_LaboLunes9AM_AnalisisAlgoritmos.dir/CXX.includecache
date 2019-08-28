@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ricardo/CLionProjects/00108517-Tarea2-LaboLunes9AM-AnalisisAlgoritmos/main.cpp
+iostream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Ricardo/CLionProjects/00108517-Tarea2-LaboLunes9AM-AnalisisAlgoritmos/cmake-build-debug/CMakeFiles/00108517_Tarea2_LaboLunes9AM_AnalisisAlgoritmos.dir
+C:/Users/Ricardo/CLionProjects/00108517-Tarea2-LaboLunes9AM-AnalisisAlgoritmos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ricardo/CLionProjects/00108517-Tarea2-LaboLunes9AM-AnalisisAlgoritmos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
